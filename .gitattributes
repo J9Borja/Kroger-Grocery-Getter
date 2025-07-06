@@ -1,0 +1,8 @@
+# Ensure all text files use LF (recommended for cross-platform)
+* text=auto eol=lf
+
+# Alternatively, for Windows-only environments, use:
+# * text=auto eol=crlf
+
+
+
